@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="585587cc-6207-4eb6-abc9-145fd6f18258" name="Default Changelist" comment="" />
+    <list default="true" id="585587cc-6207-4eb6-abc9-145fd6f18258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/androidTest/java/com/yasoka/googledrivesunichaudharidemo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Decompress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Driver_utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/test/java/com/yasoka/googledrivesunichaudharidemo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,56 +70,14 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Uploading-SQLite-Database-to-Google-Drive-in-Android-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Uploading-SQLite-Database-to-Google-Drive-in-Android-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1YyqIkauDAuZDZgnuKlwpBxIAUj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../SOFTWARE/SDK" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Database-Backup-Restore-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GDriveSyncDemo-master" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -96,41 +105,16 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19011815" />
-      <window_info id="Structure" order="2" side_tool="true" />
-      <window_info id="Build Variants" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Resources Explorer" order="7" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.32960895" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Gradle" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Fabric" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
