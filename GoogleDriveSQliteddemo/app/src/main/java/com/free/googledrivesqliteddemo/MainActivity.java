@@ -34,7 +34,7 @@ import static android.os.Build.VERSION_CODES.M;
 
 
 public class MainActivity extends AppCompatActivity {
-    public static final String PACKAGE_NAME = "com.example.intuition.helpinghand";
+    public static final String PACKAGE_NAME = "com.free.googledrivesqliteddemo";
     public static final String DATABASE_NAME = "orgs_db";
     public static final String TABLE_NAME = "orgs_table";
     public SQLiteDatabase db = null;
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-            db = openOrCreateDatabase("orgs_db", Context.MODE_PRIVATE, null);
+            db = openOrCreateDatabase(DATABASE_NAME, Context.MODE_PRIVATE, null);
             db.execSQL("CREATE TABLE IF NOT EXISTS orgs_table(_id integer primary key autoincrement unique, orgs_img blob, orgs_name text)");
             Cursor cursor = db.rawQuery("SELECT * FROM orgs_table", null);
             if (cursor.moveToFirst()){
@@ -181,7 +181,7 @@ public class MainActivity extends AppCompatActivity {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Crash time...", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(MainActivity.this, "Crash time...", Toast.LENGTH_SHORT).show();
 //                        mCloud.saveFileToDrive();
                 Intent i = new Intent(MainActivity.this, CloudBackup.class);
                 startActivity(i);

@@ -2,55 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="585587cc-6207-4eb6-abc9-145fd6f18258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/androidTest/java/com/yasoka/googledrivesunichaudharidemo/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Decompress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Driver_utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/test/java/com/yasoka/googledrivesunichaudharidemo/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDrive-Rest-Android-master/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GDriveSyncDemo-master/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSQliteddemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSunil/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Driver_utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleDriveSunil/app/src/main/java/com/yasoka/googledrivesunichaudharidemo/Driver_utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +35,9 @@
   <component name="ProjectId" id="1YyqIkauDAuZDZgnuKlwpBxIAUj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../SOFTWARE/SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GDriveSyncDemo-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GoogleDriveSQliteddemo" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -110,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -42,7 +42,7 @@ public class Driver_utils {
     public static SharedPreferences preferences_driverId;
     public static SharedPreferences.Editor editor;
     private static final String GOOGLE_DRIVE_FILE_NAME = "Databackup";
-    public static void restoreDriveBackup(Context ctx, GoogleApiClient apis, String GOOGLE_DRIVE_FILE_NAME, SharedPreferences preferences_driverIds, DriveFile mfiles) {
+    public static void restoreDriveBackup(Context ctx, GoogleApiClient apis, String GOOGLE_DRIVE_FILE_NAME, SharedPreferences preferences_driverIds, final DriveFile mfiles) {
         mfile = mfiles;
         api = apis;
         preferences_driverId = preferences_driverIds;
@@ -59,7 +59,8 @@ public class Driver_utils {
                 Log.e("driveId put", "" + driveId);
                 Log.e("filesize in cloud ", +metadataBufferResult.getMetadataBuffer().get(0).getFileSize() + "");
                 metadataBufferResult.getMetadataBuffer().release();
-                mfile = Drive.DriveApi.getFile(api, driveId);
+                //mfile = Drive.DriveApi.getFile(api, driveId);
+
                 mfile.open(api, DriveFile.MODE_READ_ONLY, new DriveFile.DownloadProgressListener() {
                     @Override
                     public void onProgress(long bytesDown, long bytesExpected) {
